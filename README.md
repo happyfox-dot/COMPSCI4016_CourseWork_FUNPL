@@ -1,4 +1,7 @@
 # COMPSCI4016_CourseWork_FUNPL
+
+# get help from email : happfox123@qq.com
+
 COMPSCI4016 Programming Languages
 Programming Languages H
 Coursework Assignment
