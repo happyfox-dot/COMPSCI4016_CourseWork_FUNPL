@@ -21,11 +21,11 @@ Maintain the same structure of directory as it was given to you.
 Add your own name and the date to the header comment in any file you modify. 
 Additionally, clearly highlight all your modifications in the code, using comments such as
 “// EXTENSION … //END OF EXTENSION”.
-Extension A: the repeat-until command
+## Extension A: the repeat-until command
 Note the following points about the syntax, typing rules and semantics of the switch command.
 • The repeat-until command should contain any sequence of commands in its body.
 • The guard of until should be any general expression.
-Extension B: the switch command
+## Extension B: the switch command
 Note the following points about the syntax, typing rules and semantics of the switch command.
 • The expression being tested (i.e. the expression that appears after the switch keyword) can be any integer or 
 boolean expression.
